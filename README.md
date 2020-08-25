@@ -11,3 +11,5 @@ Experiments relating to the theory of machine learning and computational machine
 4. [nature_of_highD_space.ipynb](https://github.com/c-maine/Machine-Learning-Theory/blob/master/nature_of_highD_space.ipynb) - Experiments demonstrating the sparsity of highD space!
 
 5. [DecisionTree_Classifier.ipynb](https://github.com/c-maine/Machine-Learning-Theory/blob/master/DecisionTree_Classifier.ipynb) - Experiments looking at the performance of Decision Tree algorithms, bagging and random subspace methods
+
+![Example experiment from PerformanceComparison MeanEstimators notebook](https://github.com/c-maine/Machine-Learning-Theory/blob/master/example_ML.png)
